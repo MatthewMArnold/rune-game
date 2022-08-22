@@ -1,0 +1,16 @@
+%YAML:1.0
+---
+
+conourAreaMax: 1300
+contourAreaMin: 200
+
+contourLengthMin: 20
+contourLengthMax: 50
+
+contourWidthMin: 10
+contourWidthMax: 40
+
+contourHWRatioMin: 1.2
+contourHWRatioMax: 2.5
+
+contourAreaBBAreaRatioMin: 0.6

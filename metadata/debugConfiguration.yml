@@ -1,0 +1,15 @@
+%YAML:1.0
+---
+
+logLevel: 1
+
+showArmorPlatePre: 0
+showPetalPre: 0
+showPlateSelectorPre: 0
+showCenterPre: 0
+showFinalResult: 1
+
+showPreprocessing: 0
+contourIndex: -1
+
+armorPlateRemovalHWExpansion: 1.5

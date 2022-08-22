@@ -1,0 +1,18 @@
+%YAML:1.0
+---
+
+contourAreaMin: 200
+contourAreaMax: 500
+
+contourLengthMin: 1
+contourWidthMax: 100
+
+contourWidthMin: 1
+contourLengthMax: 100
+
+contourLWRatioMin: .99
+contourLWRatioMax: 1.5
+
+contourAreaBBRatioMin: .5
+
+contourIntersectionAreaMin: 0.9

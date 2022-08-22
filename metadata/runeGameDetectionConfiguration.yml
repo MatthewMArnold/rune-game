@@ -1,0 +1,10 @@
+%YAML:1.0
+---
+
+detectRed: 1
+
+grayscaleThresholdRed: 50
+grayscaleThresholdBlue: 50
+
+colorBinaryThresholdRed: 130
+colorBinaryThresholdBlue: 100

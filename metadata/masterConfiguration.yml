@@ -1,0 +1,11 @@
+%YAML:1.0
+---
+
+filenames:
+  runeGameDetectionConfiguration: "runeGameDetectionConfiguration.yml"
+  debugConfiguration: "debugConfiguration.yml"
+  videoConfiguration: "videoConfiguration.yml"
+  plateDetectorConfiguration: "plateDetectorConfiguration.yml"
+  petalDetectorConfiguration: "petalDetectorConfiguration.yml"
+  plateSelectorStripConfiguration: "plateSelectorStripConfiguration.yml"
+  runeCenterConfiguration: "runeCenterConfiguration.yml"

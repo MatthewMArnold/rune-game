@@ -1,0 +1,22 @@
+%YAML:1.0
+---
+
+minContourIntersectionArea: .1
+
+contourAreaMin: 200
+contourAreaMax: 2000
+
+contourLengthMin: 60
+contourLengthMax: 120
+
+contourWidthMin: 5
+contourWidthMax: 50
+
+contourLWRatioMin: 3
+contourLWRatioMax: 8
+
+contourAreaRatioMin: .1
+
+armorPlateRemovalHWExpansion: 1.5
+
+minAreaIntersectingRatio: 0.9

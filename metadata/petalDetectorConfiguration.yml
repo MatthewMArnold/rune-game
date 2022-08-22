@@ -1,0 +1,16 @@
+%YAML:1.0
+---
+
+boundingAreaMin: 8000
+boundingAreaMax: 20000
+
+contourHeightMin: 80
+contourHeightMax: 200
+
+contourWidthMin: 40
+contourWidthMax: 100
+
+contourHWRatioMin: 1.5
+contourHWRatioMax: 3
+
+contourAreaRatioMin: 0.3

@@ -1,0 +1,6 @@
+%YAML:1.0
+---
+
+# videoFile: "../test-footage/blue_1.mp4"
+videoFile: "../test-footage/red_1.mp4"
+imageFile: "../test-footage/blue_img_1.png"
