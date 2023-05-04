@@ -1,4 +1,4 @@
-A classical CV detector approach to the RoboMaster rune game CV detection problem. [Website](https://matthewmarnold.github.io/CSE-455-Final-Project/).
+A classical CV detector approach to the RoboMaster rune game CV detection problem. [Website](https://matthewmarnold.github.io/CSE-455-Final-Project-Website/).
 
 ## Dependencies:
 
